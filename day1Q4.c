@@ -14,4 +14,4 @@ int main() {
     }
     printf("Digit %d appears %d times", digit, count);
     return 0;
-}
+} 
